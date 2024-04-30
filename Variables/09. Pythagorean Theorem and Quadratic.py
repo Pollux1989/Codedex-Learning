@@ -27,5 +27,18 @@ hypotenuse = ((side_a * side_a) + (side_b ** 2)) ** 0.5
 
 print(hypotenuse)
 
+# Quadratic formula!
+
+a = int(input('type the coefficient a: '))
+b = int(input('type the coefficient b: '))
+c = int(input('type the coefficient c: '))
+
+x1 =(-b + (b**2 - 4*a*c)**0.5) / (2*a)
+x2 =(-b - (b**2 - 4*a*c)**0.5) / (2*a)
+
+
+print(x1)
+print(x2)
+
 
 
