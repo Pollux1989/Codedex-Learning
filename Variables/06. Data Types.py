@@ -28,4 +28,14 @@ cranky = True
 
 print(xp)    # Output: 80
 
+# Operators
+Computers are incredible at doing math calculations. Now that we have learned about variables, let's use them with arithmetic operators to calculate things!
+Python has the following arithmetic operators:
+
++ Addition
+- Subtraction
+* Multiplication
+/ Division
+% Modulo (returns the remainder)
+
 
