@@ -24,7 +24,6 @@ burro_bar.category = "Mexican"
 burro_bar.rate = 2.8
 burro_bar.delivery = False
 
-
 print(vars(bobs_burger))
 print(vars(gyg))
 print(vars(burro_bar))
