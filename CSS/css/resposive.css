@@ -1,0 +1,84 @@
+@media (max-width:1251px){
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    #banner h1{
+        font-size: 35px;
+        text-align: center;
+        margin: 33px auto;
+
+    }
+    .card{
+        width: 16%;
+        margin: 1.45%;
+    }
+
+    #articles{
+        width: 65%;
+    }
+
+    #aricles article{
+        width: 97%;
+
+    }
+
+    #footer .wrap > div{
+        width: 24%;
+    }
+
+    #footer #browsers img{
+        width: 14%;
+    }
+
+    #footer h5{
+        font-size: 30px;
+    }
+    }
+
+    @media (max-width:1080px){
+        .card .category{
+            font-size: 17px;
+        }
+        .card .description{
+            font-size: 14px;
+        }
+        #articles{
+            width: 61%;
+        }
+    }
+
+    @media (max-width:980px){
+        #articles{
+            width: 59%;
+        }       
+        #footer h5{
+            font-size: 22px;
+        
+        }        
+        #lateral {
+            width: 25%;
+        }
+        .card{
+            width: 15%;
+        }
+    }
+
+    @media (max-width:931px){
+        #articles{
+            width: 59%;
+        }       
+        #footer h5{
+            font-size: 22px;
+        
+        }        
+        #lateral {
+            width: 25%;
+        }
+        .card{
+            width: 15%;
+        }
+    }
+
+
